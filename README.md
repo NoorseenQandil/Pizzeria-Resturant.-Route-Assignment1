@@ -1,6 +1,11 @@
 # Pizzeria-Resturant.-Route-Assignment1
-Simple table with HTML only. 
+Simple table created with HTML only. 
 
+## Description
+- Simple table created with HTML only.
+- Icludes 3 rows and 4 columns.
+- Includes images and description about each one of them.
+  
 ## Getting Started
 1- Clone or download this repository to your local machine.
 
@@ -9,7 +14,7 @@ Simple table with HTML only.
 ## Live Demo
  Experience the Tabs Project in action! Click the link below to access the live demo:
 
-[Live Demo] (https://noorseenqandil.github.io/Yummy/)
+[Live Demo] (https://noorseenqandil.github.io/Pizzeria-Resturant.-Route-Assignment1/)
 
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
