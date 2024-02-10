@@ -1,4 +1,4 @@
-# Pizzeria-Resturant.-Route-Assignment1
+# Pizzeria-Resturant.Route-Assignment1
 Simple table created with HTML only. 
 
 ## Description
