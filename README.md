@@ -14,7 +14,7 @@ Simple table created with HTML only.
 ## Live Demo
  Experience the Tabs Project in action! Click the link below to access the live demo:
 
-[Live Demo] (https://noorseenqandil.github.io/Pizzeria-Resturant.-Route-Assignment1/)
+[Live Demo] (https://noorseenqandil.github.io/Pizzeria-Resturant.Route-Assignment1/)
 
 Feel free to interact with the project, browse through different jobs, and explore the user-friendly interface. The live demo provides a hands-on experience to see the Tabs Project in action.
 
